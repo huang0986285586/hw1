@@ -1,0 +1,139 @@
+2023-07-11 23:02:44.718 [info] Extension host with pid 781196 started
+2023-07-11 23:02:44.724 [info] Lock '/home/huang/.vscode-server/data/User/workspaceStorage/54543848fdb0ff03d008ea38b466e806/vscode.lock': Lock acquired.
+2023-07-11 23:02:44.798 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-11 23:02:44.848 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-11 23:02:44.877 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-11 23:02:44.877 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-11 23:02:45.024 [info] Eager extensions activated
+2023-07-11 23:02:45.024 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-11 23:02:45.024 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-11 23:13:04.362 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-07-11 23:47:31.945 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:47:31.968 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:47:34.899 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:47:39.918 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:47:44.939 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:47:49.960 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:47:54.980 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:00.001 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:05.024 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:10.048 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:15.068 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:20.090 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:25.112 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:30.134 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:35.157 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:40.888 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:45.911 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:50.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:48:55.954 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:49:00.976 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:49:05.997 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:49:11.017 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:49:16.041 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1378
+2023-07-11 23:49:21.064 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1380
+2023-07-11 23:49:26.085 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1380
+2023-07-11 23:49:31.104 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1380
+2023-07-11 23:49:36.127 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1380
+2023-07-11 23:49:41.148 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1380
+2023-07-11 23:49:46.170 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1380
+2023-07-11 23:49:51.191 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1380
+2023-07-11 23:49:56.214 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1379
+2023-07-11 23:50:01.238 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1379
+2023-07-11 23:50:06.259 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1379
+2023-07-11 23:50:11.279 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1379
+2023-07-11 23:50:16.299 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1379
+2023-07-11 23:50:21.321 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1379
+2023-07-11 23:50:26.036 [info] Extension host terminating: received terminate message from renderer
+2023-07-11 23:50:26.036 [info] Lock '/home/huang/.vscode-server/data/User/workspaceStorage/54543848fdb0ff03d008ea38b466e806/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-07-11 23:50:26.042 [error] Canceled: Canceled
+	at new h (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:42413)
+	at t.O (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:112:11236)
+	at Proxy.U.<computed>.q.charCodeAt.U.<computed> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:112:8675)
+	at e.$vL.g (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:63549)
+	at e.$vL.executeCommand (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:62973)
+	at P.registerCommand.description (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:62280)
+	at e.$vL.h (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:64085)
+	at e.$vL.g (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:63073)
+	at e.$vL.executeCommand (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:62973)
+	at Object.executeCommand (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:118:20971)
+	at i.D [as value] (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1260424)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.x (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1972)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2188)
+	at Object.f [as dispose] (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1275972)
+	at /home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1280539
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1280525)
+	at o.<anonymous> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:96:4162)
+	at o.dispose (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:96:4297)
+	at o.<anonymous> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1262437)
+	at o.dispose (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:96:4297)
+	at D (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:10:11731)
+	at i.Z (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:10370)
+	at /home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:8332
+	at Array.map (<anonymous>)
+	at i.S (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:8319)
+	at i.terminate (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:8591)
+	at l.terminate (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:118:1532)
+	at E (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:128:32236)
+	at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:128:30287)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2119)
+	at fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:13931)
+	at s.z (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:16976)
+	at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:15428)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2119)
+	at i.acceptChunk (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:11705)
+	at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:10992)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2119)
+	at p.u (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:128:19065) setContext undefined
+2023-07-11 23:50:26.043 [error] Canceled: Canceled
+	at new h (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:42413)
+	at t.O (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:112:11236)
+	at Proxy.U.<computed>.q.charCodeAt.U.<computed> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:112:8675)
+	at e.$vL.g (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:63549)
+	at e.$vL.executeCommand (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:62973)
+	at P.registerCommand.description (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:62280)
+	at e.$vL.h (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:64085)
+	at e.$vL.g (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:63073)
+	at e.$vL.executeCommand (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:100:62973)
+	at Object.executeCommand (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:118:20971)
+	at t.$Ze.set b [as b] (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/github/dist/extension.js:2:675669)
+	at /home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/github/dist/extension.js:2:676313
+	at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1347255)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.x (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1972)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2188)
+	at Object.f [as dispose] (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1275972)
+	at /home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1280539
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1280525)
+	at o.<anonymous> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:96:4162)
+	at o.dispose (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:96:4297)
+	at o.<anonymous> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/extensions/git/dist/main.js:2:1262437)
+	at o.dispose (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:96:4297)
+	at D (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:10:11731)
+	at i.Z (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:10370)
+	at /home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:8332
+	at Array.map (<anonymous>)
+	at i.S (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:8319)
+	at i.terminate (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:114:8591)
+	at l.terminate (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:118:1532)
+	at E (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:128:32236)
+	at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:128:30287)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2119)
+	at fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:13931)
+	at s.z (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:16976)
+	at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:15428)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2119)
+	at i.acceptChunk (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:11705)
+	at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:76:10992)
+	at p.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:1902)
+	at p.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:60:2119)
+	at p.u (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/api/node/extensionHostProcess.js:128:19065) setContext undefined
+2023-07-11 23:50:26.043 [info] Extension host with pid 781196 exiting with code 0

@@ -1,0 +1,68 @@
+2023-07-11 23:02:24.991 [info] 
+
+
+
+
+2023-07-11 23:02:25.002 [info] Extension host agent started.
+2023-07-11 23:02:25.042 [info] [127.0.0.1][abce40e9][ManagementConnection] New connection established.
+2023-07-11 23:02:25.070 [info] [127.0.0.1][1c750ca3][ExtensionHostConnection] New connection established.
+2023-07-11 23:02:25.105 [info] [127.0.0.1][1c750ca3][ExtensionHostConnection] <781054> Launched Extension Host Process.
+2023-07-11 23:02:33.392 [info] [127.0.0.1][abce40e9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-11 23:02:33.397 [info] [127.0.0.1][1c750ca3][ExtensionHostConnection] <781054> Extension Host Process exited with code: 0, signal: null.
+2023-07-11 23:02:33.397 [info] Cancelling previous shutdown timeout
+2023-07-11 23:02:33.397 [info] Last EH closed, waiting before shutting down
+2023-07-11 23:02:43.905 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-11 23:02:43.906 [info] Cancelling previous shutdown timeout
+2023-07-11 23:02:44.105 [info] [127.0.0.1][3e80d208][ManagementConnection] New connection established.
+2023-07-11 23:02:44.171 [info] [127.0.0.1][01cb353e][ExtensionHostConnection] New connection established.
+2023-07-11 23:02:44.181 [info] [127.0.0.1][01cb353e][ExtensionHostConnection] <781196> Launched Extension Host Process.
+2023-07-11 23:07:43.906 [info] New EH opened, aborting shutdown
+2023-07-11 23:18:31.149 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-11 23:50:26.035 [info] [127.0.0.1][3e80d208][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-11 23:50:26.048 [info] [127.0.0.1][01cb353e][ExtensionHostConnection] <781196> Extension Host Process exited with code: 0, signal: null.
+2023-07-11 23:50:26.048 [info] Last EH closed, waiting before shutting down
+2023-07-11 23:51:16.727 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-11 23:51:16.727 [info] Cancelling previous shutdown timeout
+2023-07-11 23:51:17.134 [info] [127.0.0.1][b882540f][ManagementConnection] New connection established.
+2023-07-11 23:51:17.220 [info] [127.0.0.1][34d34de4][ExtensionHostConnection] New connection established.
+2023-07-11 23:51:17.223 [info] [127.0.0.1][34d34de4][ExtensionHostConnection] <789096> Launched Extension Host Process.
+2023-07-11 23:51:20.390 [error] CodeExpectedError: Could not find pty on pty host
+    at g.O (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:7243)
+    at g.updateTitle (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:2685)
+    at g.Q.<computed> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:27:22460)
+    at Object.call (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:17:4866)
+    at u.s (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at E.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at E.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:8:27085)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-07-11 23:56:16.728 [info] New EH opened, aborting shutdown
+2023-07-11 23:57:27.712 [info] [127.0.0.1][b882540f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-11 23:57:27.728 [info] [127.0.0.1][34d34de4][ExtensionHostConnection] <789096> Extension Host Process exited with code: 0, signal: null.
+2023-07-11 23:57:27.728 [info] Last EH closed, waiting before shutting down
+2023-07-11 23:57:35.569 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-11 23:57:35.569 [info] Cancelling previous shutdown timeout
+2023-07-11 23:57:35.965 [info] [127.0.0.1][33bb327d][ManagementConnection] New connection established.
+2023-07-11 23:57:36.009 [info] [127.0.0.1][e96e146b][ExtensionHostConnection] New connection established.
+2023-07-11 23:57:36.014 [info] [127.0.0.1][e96e146b][ExtensionHostConnection] <790077> Launched Extension Host Process.
+2023-07-11 23:57:38.370 [error] CodeExpectedError: Could not find pty on pty host
+    at g.O (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:7243)
+    at g.updateTitle (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:2685)
+    at g.Q.<computed> (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:27:22460)
+    at Object.call (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:17:4866)
+    at u.s (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at E.w (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at E.fire (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/huang/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:8:27085)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-07-12 00:02:35.569 [info] New EH opened, aborting shutdown
+2023-07-12 00:04:07.415 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-12 00:13:47.981 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
